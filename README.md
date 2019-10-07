@@ -72,7 +72,7 @@
 							<ul class="actions stacked">
 								<li><a href="https://www.google.com/maps/place/R.+Santo+Antônio,+237+-+Vila+Santo+Antônio,+Cotia+-+SP/data=!4m2!3m1!1s0x94cfaabc4ea5f9bf:0xf563195930089952?sa=X&ved=2ahUKEwiN9s_DyuzkAhU6G7kGHZsDCDcQ8gEwAHoECAUQAQ" class="button" target="_blank">Google Maps</a></li>
 							</ul>
-                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.2782417413873!2d-46.84408648538306!3d-23.594352168695785!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cfaabc4ea5f9bf%3A0xf563195930089952!2sR.%20Santo%20Ant%C3%B4nio%2C%20237%20-%20Vila%20Santo%20Ant%C3%B4nio%2C%20Cotia%20-%20SP!5e0!3m2!1spt-BR!2sbr!4v1569378376764!5m2!1spt-BR!2sbr" width="500" height="350" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
+                            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3656.2782417413873!2d-46.84408648538306!3d-23.594352168695785!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94cfaabc4ea5f9bf%3A0xf563195930089952!2sR.%20Santo%20Ant%C3%B4nio%2C%20237%20-%20Vila%20Santo%20Ant%C3%B4nio%2C%20Cotia%20-%20SP!5e0!3m2!1spt-BR!2sbr!4v1569378376764!5m2!1spt-BR!2sbr" width="400" height="350" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
 						</div>
 						
 					</section>
